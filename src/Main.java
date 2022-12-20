@@ -9,7 +9,7 @@ public class Main {
         FeatureSUN Xeron = new FeatureSUN();
         Xeron.Heat="1216535";
         Xeron.size=132346545;
-        Xeron.Temperature="3434";
+        Xeron.Temperature=3434;
 
     }
 }
